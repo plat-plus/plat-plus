@@ -28,7 +28,7 @@
     <td valign="top"><h3>Upload once, see it everywhere</h3>Course page, session or task: every file lives once in Files and shows wherever you use it.</td>
   </tr>
   <tr>
-    <td colspan="3" valign="top"><h3>Create interactive content with your own AI</h3>Describe flashcards, a quiz, a simulation or anything else, and an AI of your choice writes it for your course page, also one running on your own computer. You choose the AI and so who sees your content. plat.plus itself sends nothing to any AI.</td>
+    <td colspan="3" valign="top"><h3>Create interactive content with your own AI</h3>Describe flashcards, a quiz, a simulation or anything else, and an AI of your choice writes it for your course page, also one running on your own computer, such as in Ollama or LM Studio. You choose the AI and so who sees your content. plat.plus itself sends nothing to any AI.</td>
   </tr>
 </table>
 
